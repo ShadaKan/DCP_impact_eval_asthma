@@ -1,4 +1,4 @@
-### This is a repository for my SAS and Stata commands used in the study
+### This is a repository for my SAS and Stata commands used in the study.
 **Data source**: The Medical Expenditure Panel Survey 2004-2013
 
 **Data management**: SAS was used to combine 10 years of data. 
